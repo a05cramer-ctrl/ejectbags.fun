@@ -1,1 +1,1 @@
-window.EJECT_CFG={NAME:"EJECT",TICKER:"EJECT",CA:"",CHAIN:"solana",PAD:"pump.fun",PAIR:"",X:"",BUY:"",CHART:""};
+window.EJECT_CFG={NAME:"EJECT",TICKER:"EJECT",CA:"5Xa5X7nP9zouEMKwvFgJX5Mcav3fKw5myxBNdzQ4pump",CHAIN:"solana",PAD:"pump.fun",PAIR:"",X:"https://x.com/ejectbags",BUY:"https://pump.fun/coin/5Xa5X7nP9zouEMKwvFgJX5Mcav3fKw5myxBNdzQ4pump",CHART:"https://gmgn.ai/sol/token/5Xa5X7nP9zouEMKwvFgJX5Mcav3fKw5myxBNdzQ4pump"};
