@@ -1,0 +1,6 @@
+{
+  "name": "eject-site",
+  "private": true,
+  "engines": { "node": ">=20" },
+  "dependencies": { "@solana/web3.js": "1.98.4" }
+}
